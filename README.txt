@@ -1,0 +1,1 @@
+An attempt in learning RabbitMQ
